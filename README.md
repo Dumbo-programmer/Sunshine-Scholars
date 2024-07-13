@@ -1,5 +1,7 @@
 # Sunshine Scholars
 
+![Sunshine Scholars Logo](assets/logo.png)
+
 Sunshine Scholars is a non-profit organization dedicated to providing robust, affordable educational laptops to schools in Africa. Our laptops are designed to be durable, user-friendly, and solar-powered, ensuring accessibility and sustainability.
 
 ## Mission
@@ -27,4 +29,12 @@ We welcome contributions from anyone passionate about education, technology, and
 
 ## Contact Us
 
-For more information, please visit our [website](https://example.com) or contact us at tawhidbinomar@gmail.com
+For more information, please visit our [website](https://example.com) or contact us at info@sunshinescholars.org.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+We would like to thank all our partners and volunteers for their continuous support.
